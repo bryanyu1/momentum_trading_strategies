@@ -2,7 +2,7 @@
 An application of high quality and low quality momentum trading on the S&P500, using the IEX Cloud API in Python. 
 
 The high quality and low quality quantitative trading strategies were both built during the course from Nick McCullum as linked: 
-https://www.youtube.com/watch?v=xfzGZB4HhEE&list=PL9amRpaUdkPKpjDKwJDoYuIm8Rr4qECLB&index=2&t=6413s&ab_channel=freeCodeCamp.org
+https://www.freecodecamp.org/news/algorithmic-trading-using-python-course/
 
 After importing a current list of the S&P500 stocks, the one-year price return was used to generate a shortlist of 50 low quality high momentum stocks. Then, given a manual input for the funds in the portfolio, an equal-weighted portfolio with the exact number of shares to purchase was calculated. 
 
